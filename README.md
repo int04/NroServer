@@ -15,6 +15,6 @@ Code là hàng h tập, vì thế, các b hãy sử dung đúng m đích để h
 
 # cài đặt client
 
-1.donwload client về.
+1. donwload client về.
 2. Mở file **Models/main.js** dòng 10 edit IP từ **192.168.1.5** thành **127.0.0.1**
 3. thư muc admin là **/ditmeducnghia**, edit caasu hình ip tng tự như trên. 
